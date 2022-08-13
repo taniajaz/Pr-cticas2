@@ -1,2 +1,2 @@
-# Pr-cticas2
+# Practicas2
 Prácticas Semana 2
